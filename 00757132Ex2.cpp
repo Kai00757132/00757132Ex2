@@ -2,9 +2,8 @@
 using namespace std;
 int main()
 {
-	int a,b;
-	cin>>a>>b;
-	cout<<a+b;
+	int a=10;
+	cout<<a<<"aaaaaaa\n";
  return 0;
  }
 
