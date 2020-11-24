@@ -3,11 +3,7 @@ using namespace std;
 int main()
 {
 	int a=10;
-<<<<<<< HEAD
-	cout<<a<<"aaaaaaaaaa\n";
-=======
-	cout<<a<<"aaaaaa\n" 
->>>>>>> feature
+	cout<<a<<"aaaaaaa\n" 
  return 0;
  }
 
